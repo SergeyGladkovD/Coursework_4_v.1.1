@@ -17,7 +17,7 @@ class Vacancy(AbsVacancy):
         self.url = url
         self.snippet = snippet['requirement']
         if salary is None:
-            self.salary = 'Зарплата не указана.'
+            self.salary = 0
         elif salary['from'] is None:
             self.salary = salary['to']
         elif salary['to'] is None:

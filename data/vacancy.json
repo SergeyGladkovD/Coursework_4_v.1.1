@@ -1,20 +1,284 @@
 [
     {
-        "name": "Охранник (склад)",
-        "vacancy": "https://api.hh.ru/vacancies/94508038?host=hh.ru",
+        "name": "Junior python разработчик",
+        "vacancy": "https://hh.ru/vacancy/94603140",
+        "salary": 0,
+        "snippet": "...области веб-разработки с использованием <highlighttext>Python</highlighttext> и Django будет преимуществом. Опыт работы с языком программирования <highlighttext>Python</highlighttext> и его библиотеками. "
+    },
+    {
+        "name": "Junior Python-разработчик",
+        "vacancy": "https://hh.ru/vacancy/93106678",
+        "salary": 50000.0,
+        "snippet": "Уверенное владение языком программирования <highlighttext>Python</highlighttext>. Знание одного из следующих фреймворков: Django, DRF или FastAPI. Опыт работы с системой контроля версий..."
+    },
+    {
+        "name": "Backend developer (Python, FastAPI)",
+        "vacancy": "https://hh.ru/vacancy/94493056",
+        "salary": 0,
+        "snippet": "Опыт разработки сервисов на <highlighttext>Python</highlighttext> от 2 лет."
+    },
+    {
+        "name": "Python-разработчик",
+        "vacancy": "https://hh.ru/vacancy/94517119",
+        "salary": 115000.0,
+        "snippet": "1-3 года production-опыта c <highlighttext>Python</highlighttext> 3. Опыт работы с LLM и дообучение GPT-like моделей будет преимуществом. "
+    },
+    {
+        "name": "Разработчик Python",
+        "vacancy": "https://hh.ru/vacancy/94525457",
+        "salary": 0,
+        "snippet": "Умение собирать <highlighttext>Python</highlighttext> библиотеки из исходного кода. Знание синтаксиса, алгоритмов, принципов, основных библиотек, типов данных языка <highlighttext>Python</highlighttext>. Умение работать с..."
+    },
+    {
+        "name": "Backend разработчик (Python DRF)",
+        "vacancy": "https://hh.ru/vacancy/94523042",
+        "salary": 0,
+        "snippet": "Уверенное знание <highlighttext>python</highlighttext>3. Знание сетевых протоколов HTTP, WebSocket. Продвинутое знание Django (Django REST Framework). Знание SQL, опыт работы с..."
+    },
+    {
+        "name": "Python-разработчик",
+        "vacancy": "https://hh.ru/vacancy/94623534",
+        "salary": 135000.0,
+        "snippet": "Ответственное написание документации к коду для облегчения понимания и совместной работы. Глубокое знание <highlighttext>Python</highlighttext> (* + библиотек по работе с большими..."
+    },
+    {
+        "name": "Python-разработчик",
+        "vacancy": "https://hh.ru/vacancy/94637310",
+        "salary": 0,
+        "snippet": "Базовое понимание разработки и упаковки консольного приложения на <highlighttext>python</highlighttext>. Знание фреймворков fastapi, django, flask. Знание и умение применять паттерны проектирования..."
+    },
+    {
+        "name": "Разработчик backend на Python",
+        "vacancy": "https://hh.ru/vacancy/94248444",
+        "salary": 0,
+        "snippet": "опыт работы с одним из web framework <highlighttext>Python</highlighttext> (Flask/FastAPI). - опыт построения библиотек на C++ (использование технологии параллельной обработки данных). - "
+    },
+    {
+        "name": "Python-разработчик",
+        "vacancy": "https://hh.ru/vacancy/94484371",
+        "salary": 160000.0,
+        "snippet": "Язык программирования: <highlighttext>Python</highlighttext>. Знания в области машинного обучения. Базовые знания линейной алгебры, теории вероятности и математического анализа. Знание: Понимание генетических..."
+    },
+    {
+        "name": "Бэкенд-разработчик (Backend Developer, Python)",
+        "vacancy": "https://hh.ru/vacancy/94413351",
+        "salary": 0,
+        "snippet": "Опыт коммерческой разработки от 1-го года. Уверенное знание <highlighttext>Python</highlighttext>. Уверенное владение Git. Опыт работы с PostgreSQL на уровне формирования..."
+    },
+    {
+        "name": "Python программист (удаленно)",
+        "vacancy": "https://hh.ru/vacancy/94327678",
+        "salary": 0,
+        "snippet": "Коммерческий опыт разработки на <highlighttext>Python</highlighttext>. Опыт создания Telegram ботов. Опыт интеграции платежных систем через API. Знания выше упомянутых технологий."
+    },
+    {
+        "name": "Junior Python-разработчик",
+        "vacancy": "https://hh.ru/vacancy/94293788",
+        "salary": 0,
+        "snippet": "Уверенное знание <highlighttext>Python</highlighttext>. Уверенное знание PostgreSQL и умение писать оптимизированные запросы. Опыт работы с Git. Опыт работы с Pandas. "
+    },
+    {
+        "name": "Junior программист Python",
+        "vacancy": "https://hh.ru/vacancy/93804724",
+        "salary": 70000.0,
+        "snippet": "Уверенное знание <highlighttext>Python</highlighttext>. Уверенное знание SQL(PSQL, MSSQL). Умение работать с FastAPI. Умение работать с Git. Знание SQLAlchemy. "
+    },
+    {
+        "name": "Python developer",
+        "vacancy": "https://hh.ru/vacancy/94590862",
+        "salary": 0,
+        "snippet": "Имеете опыт коммерческой разработки веб-приложений на <highlighttext>Python</highlighttext> от 1 года. - Имеете опыт работы с Celery. - Знаете все про REST. - "
+    },
+    {
+        "name": "Backend Python (Middle) Разработчик",
+        "vacancy": "https://hh.ru/vacancy/94523476",
+        "salary": 212500.0,
+        "snippet": "Опыт работы с <highlighttext>Python</highlighttext> на уровне Middle (2+ года). 2. Знание основных фреймворков для веб-разработки на <highlighttext>Python</highlighttext>, таких..."
+    },
+    {
+        "name": "Backend разработчик (Python FastAPI)",
+        "vacancy": "https://hh.ru/vacancy/94349896",
+        "salary": 0,
+        "snippet": "Знания и опыт в профильных технологиях: <highlighttext>Python</highlighttext>, FastAPI, SQLalchemy, Pytest. Kafka (теоретические знания о технологии). Готовность ездить в офис. "
+    },
+    {
+        "name": "Backend Python",
+        "vacancy": "https://hh.ru/vacancy/94281669",
+        "salary": 120000,
+        "snippet": "...на <highlighttext>Python</highlighttext>. Имеете опыт разработки с СУБД используя Entity Framework. Имеете опыт асинхронного программирования, как оно устроено в языке <highlighttext>Python</highlighttext>..."
+    },
+    {
+        "name": "Разработчик (Python, AI)",
+        "vacancy": "https://hh.ru/vacancy/94360994",
+        "salary": 130000,
+        "snippet": "Уверенные знания MSSQL. Опыт разработки с API. Знания библиотек <highlighttext>Python</highlighttext>: NumPy, Pandas, Matplotlib, Scikit-learn, Flask, Django, Unittest или Pytest..."
+    },
+    {
+        "name": "Разработчик Python / Django",
+        "vacancy": "https://hh.ru/vacancy/94404467",
+        "salary": 125000.0,
+        "snippet": "Отличное знание <highlighttext>Python</highlighttext>, Django, Celery, PostgreSQL, Redis, ClickHouse (желателен опыт работы от 2-х лет). Опыт написания unit-тестов. "
+    },
+    {
+        "name": "Backend разработчик (Python, Django) / Автоматизация и аналитика корпоративного бизнеса",
+        "vacancy": "https://hh.ru/vacancy/94551260",
+        "salary": 0,
+        "snippet": "Опыт промышленной разработки на <highlighttext>Python</highlighttext>. Владение Django, DRF, PostgreSQL. Опыт работы с тестовыми фреймворками (unittest, pytest). Опыт работы с Linux..."
+    },
+    {
+        "name": "Junior python developer (Удаленно)",
+        "vacancy": "https://hh.ru/vacancy/93742422",
+        "salary": 100000,
+        "snippet": "CURL - опыт работы и понимание основных принципов. Многопоточность в <highlighttext>Python</highlighttext> (threading). Знание SQL. Опыт развертывания postgreSQL на сервере и её..."
+    },
+    {
+        "name": "Python разработчик / Ко-фаундер (Удаленно)",
+        "vacancy": "https://hh.ru/vacancy/94320025",
+        "salary": 650000.0,
+        "snippet": "Мы хотим это видеть в тебе: Опыт самостоятельной разработки без хеда, нас устроят и джуны. Навыки: <highlighttext>Python</highlighttext>, Django, ООП (объектно..."
+    },
+    {
+        "name": "Python-разработчик",
+        "vacancy": "https://hh.ru/vacancy/93483545",
+        "salary": 0,
+        "snippet": "Фундаментальные знания языка <highlighttext>Python</highlighttext>, умение писать поддерживаемый, читаемый и тестируемый код. Желание погружаться в суть задач, а не просто быть..."
+    },
+    {
+        "name": "Программист на языке Python",
+        "vacancy": "https://hh.ru/vacancy/93797563",
         "salary": 40000.0,
-        "snippet": "Знание системы работы видеонаблюдения. Внимательность. Ответственность."
+        "snippet": "Понимание основ физики и, в частности, радиолокации. Понимание основ параллельных вычислений на <highlighttext>Python</highlighttext>. Опыт работы с такими библиотеками, как threading..."
     },
     {
-        "name": "Стрелок (Охранник)",
-        "vacancy": "https://api.hh.ru/vacancies/94484557?host=hh.ru",
-        "salary": 35000.0,
-        "snippet": "Медицинский осмотр на право ношения оружия."
+        "name": "Разработчик Python (удаленно)",
+        "vacancy": "https://hh.ru/vacancy/94492837",
+        "salary": 0,
+        "snippet": "Наличие опыта коммерческой разработки от 2 лет. Знание <highlighttext>Python</highlighttext>: использование ООП, знание стандартных библиотек. Опыт работы с PostgreSQL как на..."
     },
     {
-        "name": "Охранник в гостиницу",
-        "vacancy": "https://api.hh.ru/vacancies/94594728?host=hh.ru",
-        "salary": "Зарплата не указана.",
-        "snippet": "Опыт работы в охране приветствуется. Соблюдение стандартов внешнего вида."
+        "name": "Python developer",
+        "vacancy": "https://hh.ru/vacancy/94364388",
+        "salary": 0,
+        "snippet": "Промышленный опыт <highlighttext>python</highlighttext>-разработки от двух лет, уверенные знания пакета selenium. Понимание принципов построения и работы frontend (http/html/css..."
+    },
+    {
+        "name": "Программист Python / Москва",
+        "vacancy": "https://hh.ru/vacancy/93151721",
+        "salary": 0,
+        "snippet": "<highlighttext>Python</highlighttext>. PHP. API. SQL – написание запросов простых и средней сложности. Коммуникабельность, логическое мышление, точность. Способность быстро разобраться в нештатных ситуациях..."
+    },
+    {
+        "name": "PYTHON - Разработчик для написания автоматизаций и чат-ботов (удаленная работа)",
+        "vacancy": "https://hh.ru/vacancy/94274737",
+        "salary": 50000,
+        "snippet": "Опыт разработки на языке <highlighttext>Python</highlighttext> от одного года. Redis (знать хорошо, во многих проектах используется как основная БД). PostgreSQL. "
+    },
+    {
+        "name": "Backend разработчик (Python)",
+        "vacancy": "https://hh.ru/vacancy/94326216",
+        "salary": 0,
+        "snippet": "Знание <highlighttext>Python</highlighttext>. - Умение проходить собеседования. - Опыт работы с одним или несколькими из следующих фреймворков: Django, Flask, Fast API или Tornado. - "
+    },
+    {
+        "name": "Онлайн ассистент Python",
+        "vacancy": "https://hh.ru/vacancy/94511490",
+        "salary": 30000,
+        "snippet": "Обязательное владение <highlighttext>Python</highlighttext> (линейные алгоритмы, ветвление, циклы, функции, коллекции), Django. Желательно знание Google Colaboratory, NumPy, Pandas, понимание принципов работы с..."
+    },
+    {
+        "name": "Middle backend Python",
+        "vacancy": "https://hh.ru/vacancy/94525478",
+        "salary": 0,
+        "snippet": "Необходимые навыки: Уверенно владеть <highlighttext>Python</highlighttext> 3, понимать отличия от <highlighttext>Python</highlighttext> 2. Иметь опыт работы с FastAPI (с использованием асинхронности) и..."
+    },
+    {
+        "name": "QA Auto Python",
+        "vacancy": "https://hh.ru/vacancy/94452624",
+        "salary": 215000.0,
+        "snippet": "Уровень: Middle или Middle+. - Уверенное владение <highlighttext>Python</highlighttext>. - Опыт работы с pytest. - Опыт работы с Rest API. - Знание SQL на уровне..."
+    },
+    {
+        "name": "Разработчик Python (удаленно)",
+        "vacancy": "https://hh.ru/vacancy/93558594",
+        "salary": 125000.0,
+        "snippet": "Наличие побед в олимпиадах, хакатонах и участия в них будет плюсом. Уровень проф. знаний - <highlighttext>Python</highlighttext>, sql, знание основ ООП, Pandas..."
+    },
+    {
+        "name": "Инженер-разработчик Python (junior+/middle)",
+        "vacancy": "https://hh.ru/vacancy/92354706",
+        "salary": 0,
+        "snippet": "Уровень владения <highlighttext>Python</highlighttext> – уверенный junior+/middle. Опыт использования и понимание Django, Django REST framework, Elasticsearch, RabbitMQ. Опыт работы с API..."
+    },
+    {
+        "name": "Jun+/Middle Python разработчик",
+        "vacancy": "https://hh.ru/vacancy/93090286",
+        "salary": 125000.0,
+        "snippet": "Коммерческий опыт разработки на <highlighttext>Python</highlighttext> от 1,5 лет. Коммерческий опыт использования одного из ассинхронных веб фреймворков. Опыт написания высоконагруженных..."
+    },
+    {
+        "name": "Разработчик Python",
+        "vacancy": "https://hh.ru/vacancy/93463349",
+        "salary": 0,
+        "snippet": "Широкий опыт разработки на <highlighttext>Python</highlighttext> (3.x) от 2х лет. Опыт проектирования и развития REST API. Git на уровне..."
+    },
+    {
+        "name": "Python developer (remote)",
+        "vacancy": "https://hh.ru/vacancy/93888092",
+        "salary": 0,
+        "snippet": "Опыт разработки на <highlighttext>python</highlighttext> 3 от 1.5-го года. Практический опыт разработки в команде от 1-го года с..."
+    },
+    {
+        "name": "Разработчик Python / Computer Vision",
+        "vacancy": "https://hh.ru/vacancy/94332121",
+        "salary": 250000,
+        "snippet": "Хорошие знания <highlighttext>Python</highlighttext> и умение писать на нем качественный и понятный код. Знание классического ML, классификация, кластеризация, регрессия. "
+    },
+    {
+        "name": "Backend-разработчик (Python)",
+        "vacancy": "https://hh.ru/vacancy/93203760",
+        "salary": 0,
+        "snippet": "Высшее техническое образование. Опыт разработки на <highlighttext>Python</highlighttext> от 2 лет, опыт работы с фреймворками FastAPI, Django или Flask. "
+    },
+    {
+        "name": "Middle Python Developer",
+        "vacancy": "https://hh.ru/vacancy/93795946",
+        "salary": 0,
+        "snippet": "Middle +. Опыт разработки на <highlighttext>Python</highlighttext> 3.Х. Глубокое понимание языка <highlighttext>python</highlighttext>, его сильных и слабых сторон. Опыт работы с..."
+    },
+    {
+        "name": "Middle Python Developer",
+        "vacancy": "https://hh.ru/vacancy/94625208",
+        "salary": 0,
+        "snippet": "Общий опыт разработки на <highlighttext>Python</highlighttext> (от 2 лет). Знания и опыт работы с SQL. Опыт работы с Airflow, Clickhouse, Grafana. "
+    },
+    {
+        "name": "Backend Python Senior",
+        "vacancy": "https://hh.ru/vacancy/94456033",
+        "salary": 600000.0,
+        "snippet": "5+ лет опыта backend разработки. Отличное знание и понимание FastApi. Опыт работы с высоконагруженными распределенными системами. Знание инструментов и..."
+    },
+    {
+        "name": "Data Scientist/Python-разработчик",
+        "vacancy": "https://hh.ru/vacancy/94593967",
+        "salary": 0,
+        "snippet": "Реальный опыт разработки NLP-моделей или computer vision-моделей, знание SOTA-подходов. Понимание архитектуры и принципов устройства и обучения больших..."
+    },
+    {
+        "name": "Python разработчик",
+        "vacancy": "https://hh.ru/vacancy/94182719",
+        "salary": 0,
+        "snippet": "Хорошие знания математики и статистики. Желание осваивать новые технологии. Умение видеть за числами физический смысл и причины явлений. "
+    },
+    {
+        "name": "Middle Python Developer (remote)",
+        "vacancy": "https://hh.ru/vacancy/94364770",
+        "salary": 0,
+        "snippet": "От двух лет опыта разработки на <highlighttext>Python</highlighttext>. Понимание основных принципов разработки ПО, CI/CD, юнит-тестирования. Хорошее знание: <highlighttext>Python</highlighttext> 3..."
+    },
+    {
+        "name": "Junior/Middle Python developer",
+        "vacancy": "https://hh.ru/vacancy/92785698",
+        "salary": 0,
+        "snippet": "Возможность удаленной работы. Знание <highlighttext>python</highlighttext> (junior / крепкий junior). Понимание принципов ООП, паттернов проектирования. Опыт работы с git. Опыт написания юнит..."
     }
 ]

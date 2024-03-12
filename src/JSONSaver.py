@@ -36,7 +36,7 @@ class JSONSaver(AbsJSONSaver):
         """ Выводит информацию о вакансиях в файле. """
         with open(os.path.join('data', 'vacancy.json'), 'r', encoding='utf 8') as file:
             data = json.load(file)
-            for i in data:
-                print(i)
-            # sorted_obj = sorted(data, key=lambda x: x['salary'], reverse=True)
+            sorted_obj = sorted(data, key=lambda x: x['salary'], reverse=True)
             # return sorted_obj
+            for i in sorted_obj:
+                print(f'Вакансия: {i["name"]}, {i["vacancy"]}, зарплата = {i["salary"]}, требования: {i["snippet"]}')
