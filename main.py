@@ -25,9 +25,9 @@ def user_interaction():
             # salary_range = input("Введите диапазон зарплат: ")
             for vacancy in hh_vacancies:
                 if vacancy['area']['name'] == user_city:
-                    x = Vacancy(vacancy['name'], vacancy['url'], vacancy['salary'], vacancy['snippet'])
-                    x = Vacancy.to_json(x)
-                    current_vacancies.append(x)
+                    x = Vacancy(vacancy["name"], vacancy["url"], vacancy["salary"], vacancy["snippet"])
+                    json_var = {"name": x.name, "vacancy": x.url, "salary": x.salary, "snippet": x.snippet}
+                    current_vacancies.append(json_var)
             JSONSaver.add_vacancy(current_vacancies)
         else:
             print('Программа завершена.')

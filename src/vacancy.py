@@ -1,13 +1,9 @@
 from abc import ABC
-import json
 
 
 class AbsVacancy(ABC):
 
     def __init__(self):
-        pass
-
-    def to_json(self):
         pass
 
     def compare_vacancy(self):
@@ -28,10 +24,6 @@ class Vacancy(AbsVacancy):
             self.salary = salary['from']
         else:
             self.salary = (int(salary['from']) + int(salary['to'])) / 2
-
-    def to_json(self):
-        """ Возвращает экземпляр класса как JSON файл. """
-        return json.dumps(vars(self), ensure_ascii=False)
 
     def compare_vacancy(self):
         """ Сравнивает вакансии. """
