@@ -1,320 +1,98 @@
 [
     {
-        "name": "Разработчик Java",
-        "vacancy": "https://hh.ru/vacancy/94181628",
-        "salary": 0,
-        "snippet": "ELK (Elasticsearch, Logstash, Kibana). Docker / Openshift. Gitlab CI/CD. Базовое знание <highlighttext>Java</highlighttext>. Знание REST и SOAP. Опыт интеграционного взаимодействия с..."
+        "name": "Middle Python Developer",
+        "vacancy": "https://hh.ru/vacancy/93786395",
+        "salary": 110000.0,
+        "snippet": "От 2-х лет коммерческого опыта, знаешь что такое SOLID, DRY, KISS, интересуешься паттернами проектирования. Знаешь <highlighttext>Python</highlighttext> 3.8. "
     },
     {
-        "name": "Ведущий программист Java (удалённо)",
-        "vacancy": "https://hh.ru/vacancy/92430462",
-        "salary": 0,
-        "snippet": "Внимательность, инициативность, готовность к большому неструктурированному объему задач. ТЕХНИЧЕСКИЕ КОМПЕТЕНЦИИ: <highlighttext>Java</highlighttext> 8/11 Spring framework. Rest PostgreSQL. Желателен опыт работы..."
+        "name": "Python junior разработчик",
+        "vacancy": "https://hh.ru/vacancy/94120837",
+        "salary": 50000,
+        "snippet": "Уверенные навыки написания кода на <highlighttext>Python</highlighttext>. Умение придумывать и реализовывать алгоритмы. Опыт работы с OpenCV, Numpy, Scipy. Хорошая математическая подготовка..."
     },
     {
-        "name": "Стажер-программист Java",
-        "vacancy": "https://hh.ru/vacancy/93627305",
+        "name": "Python Developer",
+        "vacancy": "https://hh.ru/vacancy/94412705",
         "salary": 0,
-        "snippet": "Базовые знания IT (знание того, что системный блок не называется процессором). Базовые знания ООП (Знаете что <highlighttext>java</highlighttext> и javascript это..."
+        "snippet": "Умение писать качественно и чисто код на <highlighttext>python</highlighttext>, учитывая специфику сервиса и закладывая архитектуру и расширяемость в коде. "
     },
     {
-        "name": "Junior Java разработчик",
-        "vacancy": "https://hh.ru/vacancy/94620487",
+        "name": "Программист Python",
+        "vacancy": "https://hh.ru/vacancy/94099215",
+        "salary": 0,
+        "snippet": "Знание request / aiohttp. Знание REST API. Знание Django и Django Rest Framework. Опыт работы с реляционными базами данных. "
+    },
+    {
+        "name": "Trainee/Intern/Junior Python backend developer",
+        "vacancy": "https://hh.ru/vacancy/93725652",
+        "salary": 35000.0,
+        "snippet": "Для этого мы ищем начинающего, сообразительного, шустрого, амбициозного интерна-джуна питониста. Опыт в коммерческой разработке не требуется – важнее навык быстро..."
+    },
+    {
+        "name": "Python developer (Telegram bot)",
+        "vacancy": "https://hh.ru/vacancy/94668698",
+        "salary": 1200,
+        "snippet": "Уверенные знания языка программирования <highlighttext>Python</highlighttext>, опыт не менее двух лет. Telegram Bot API. Опыт создания сложных Telegram-ботов. "
+    },
+    {
+        "name": "Junior Python Backend Developer",
+        "vacancy": "https://hh.ru/vacancy/92471522",
         "salary": 80000,
-        "snippet": "Уверенное знание <highlighttext>java</highlighttext>. Понимание основ работы web-приложения. Понимание основ алгоритмизации. Опыт работы с NoSQL хранилищами. Знакомство с Spring (Core..."
+        "snippet": "Уверенное знание <highlighttext>python</highlighttext>. Уверенное знание django и DRF. Опыт работы с git. Опыт работы с PostgreSQL и умение писать SQL..."
     },
     {
-        "name": "Разработчик Java",
-        "vacancy": "https://hh.ru/vacancy/94538628",
-        "salary": 0,
-        "snippet": "Опыт в роли разработчика ПО от 0,5 лет. Опыт разработки приложений на <highlighttext>Java</highlighttext> 11. Опыт использования брокеров сообщений для..."
-    },
-    {
-        "name": "JAVA Разработчик",
-        "vacancy": "https://hh.ru/vacancy/94541879",
-        "salary": 0,
-        "snippet": "...по разработке на <highlighttext>JAVA</highlighttext> от 3-х лет (теоретические и практические знания в <highlighttext>Java</highlighttext> Core (от <highlighttext>Java</highlighttext> 8 и выше). "
-    },
-    {
-        "name": "Junior Java-разработчик",
-        "vacancy": "https://hh.ru/vacancy/94582464",
-        "salary": 0,
-        "snippet": "Базовое знакомство с <highlighttext>Java</highlighttext> SE (от 6 месяцев изучения). Знание основ ООП. Знакомство с принципами тестирования ПО. Знание английского языка..."
-    },
-    {
-        "name": "Программист Java",
-        "vacancy": "https://hh.ru/vacancy/94745832",
-        "salary": 0,
-        "snippet": "<highlighttext>Java</highlighttext> 1.8 и выше. Знание принципов работы СУБД (Oracle/Postgre), уверенное владение SQL. Spring Framework. Hibernate. Знания принципов работы..."
-    },
-    {
-        "name": "Java-разработчик",
-        "vacancy": "https://hh.ru/vacancy/94116648",
-        "salary": 0,
-        "snippet": "уверенные знания <highlighttext>Java</highlighttext> Core. - понимание основных принципов ООП. - знание базовых конструкций языка запросов SQL - базовые представления о паттернах программирования. "
-    },
-    {
-        "name": "Java-разработчик",
-        "vacancy": "https://hh.ru/vacancy/94701825",
-        "salary": 0,
-        "snippet": "Знание <highlighttext>Java</highlighttext> 11+, Spring/Spring Boot/Spark или их аналогов, JPA/Hibernate. Умение работать с любой реляционной СУБД. "
-    },
-    {
-        "name": "Junior Java-разработчик",
-        "vacancy": "https://hh.ru/vacancy/94620404",
-        "salary": 0,
-        "snippet": "Умение быстро разбираться в коде <highlighttext>Java</highlighttext> (Spring). Хорошее знание SQL. Понимание основ реляционных баз данных. Уверенный пользователь Excel. "
-    },
-    {
-        "name": "Java-разработчик",
-        "vacancy": "https://hh.ru/vacancy/94661303",
-        "salary": 0,
-        "snippet": "Понимания объектно-ориентированного программирования. Понимание принципов чистой архитектуры. Хороше знание <highlighttext>Java</highlighttext>. Понимания архитектуры многопоточных приложений. Опыт работы с СУБД PostgreSQL..."
-    },
-    {
-        "name": "Middle Java Developer",
-        "vacancy": "https://hh.ru/vacancy/93350429",
-        "salary": 0,
-        "snippet": "Что нужно знать: Опыт написания микросервисов."
-    },
-    {
-        "name": "Java разработчик (Middle)",
-        "vacancy": "https://hh.ru/vacancy/93882468",
-        "salary": 0,
-        "snippet": "Коммерческий опыт работы с <highlighttext>Java</highlighttext> от 4 лет. <highlighttext>Java</highlighttext> 11+ (коллекции, stream, исключения, наследование и ООП). Spring Framework (Integration..."
-    },
-    {
-        "name": "Стажер-программист Java",
-        "vacancy": "https://hh.ru/vacancy/93889237",
-        "salary": 75000.0,
-        "snippet": "Желательно: Опыт работы ОС Windows Server. Опыт программирования на <highlighttext>Java</highlighttext>. Опыт работы в командной строке Unix. Умение работать в команде..."
-    },
-    {
-        "name": "JAVA разработчик (middle)",
-        "vacancy": "https://hh.ru/vacancy/91804339",
-        "salary": 0,
-        "snippet": "Опыт работы от 3 лет. Стек технологий: Database: PostgreSQL. Spring Framework. Будет плюсом: Apache POI. Spring Boot AOP. "
-    },
-    {
-        "name": "Java developer",
-        "vacancy": "https://hh.ru/vacancy/94261932",
-        "salary": 0,
-        "snippet": "Коммерческий опыт разработки приложений на <highlighttext>Java</highlighttext>/Spring от 2 лет. Крепкие знания Core. Опыт разработки веб-сервисов (REST, HTTP). "
-    },
-    {
-        "name": "Java-разработчик",
-        "vacancy": "https://hh.ru/vacancy/94545110",
-        "salary": 0,
-        "snippet": "Опыт работы с микросервисной архитектурой. Уверенное использование <highlighttext>Java</highlighttext> Stream Api. Базовое знание алгоритмов. Умение определять алгоритмическую сложность написанного кода. "
-    },
-    {
-        "name": "Middle Java Developer",
-        "vacancy": "https://hh.ru/vacancy/88474606",
-        "salary": 0,
-        "snippet": "Опыт промышленной разработки на <highlighttext>Java</highlighttext> от 2-х лет. Уверенное владение Spring. Умение работать с базами данных (Oracle, PostgreSQL). "
-    },
-    {
-        "name": "Java-разработчик",
-        "vacancy": "https://hh.ru/vacancy/94360524",
-        "salary": 0,
-        "snippet": "Уверенное знание <highlighttext>Java</highlighttext> 11+. Опыт работы со Spring (Boot, Data, Security, Web, Core). Опыт работы Hibernate. Понимание микросервисной архитектуры. "
-    },
-    {
-        "name": "Backend-разработчик (Junior/Junior+, Java)",
-        "vacancy": "https://hh.ru/vacancy/94682168",
-        "salary": 0,
-        "snippet": "Образование в сфере информационных технологий (от 3–4 курса обучения). – Желание учиться. – Знание <highlighttext>java</highlighttext> core. – Понимание принципов работы REST API. – "
-    },
-    {
-        "name": "Backend разработчик на Java",
-        "vacancy": "https://hh.ru/vacancy/94056369",
-        "salary": 0,
-        "snippet": "Умение решать поставленные задачи самостоятельно. Уверенные знания <highlighttext>Java</highlighttext>. Уверенные знания sql. Знание средств коллективной разработки и сборки проектов (Git, Maven..."
-    },
-    {
-        "name": "Разработчик Backend Java",
-        "vacancy": "https://hh.ru/vacancy/94291141",
-        "salary": 240000.0,
-        "snippet": "Опыт разработки на <highlighttext>java</highlighttext> от 3-4 лет. Языки разработки и диалекты: <highlighttext>Java</highlighttext>, Spring (Framework, Data, Integration, Kafka, Web Services..."
-    },
-    {
-        "name": "Java Developer",
-        "vacancy": "https://hh.ru/vacancy/92327583",
-        "salary": 0,
-        "snippet": "Уверенное знание <highlighttext>Java</highlighttext> 11 и современных фреймворков (Spring Boot). Ясное представление того, чем хороший код отличается от плохого. "
-    },
-    {
-        "name": "Java developer (fullstack)",
-        "vacancy": "https://hh.ru/vacancy/91801709",
-        "salary": 0,
-        "snippet": "Опыт работы с классовыми компонентами React и React-Hooks. <highlighttext>Java</highlighttext> (более 2 лет). Spring или Quarkus (более 2 лет). Kafka. "
-    },
-    {
-        "name": "Java разработчик Backend",
-        "vacancy": "https://hh.ru/vacancy/93350502",
-        "salary": 0,
-        "snippet": "Прослеживаемый коммерческий опыт разработки на <highlighttext>Java</highlighttext> от 3 лет. Уверенное знание технологий: <highlighttext>Java</highlighttext> 8, Concurrency, Spring, Hibernate. Опыт работы с..."
-    },
-    {
-        "name": "Разработчик Java",
-        "vacancy": "https://hh.ru/vacancy/93846403",
-        "salary": 0,
-        "snippet": "Spring Boot Starters (web, jpa, security) – не ниже версии 2.5."
-    },
-    {
-        "name": "Back-End Developer (JAVA)",
-        "vacancy": "https://hh.ru/vacancy/93357555",
-        "salary": 0,
-        "snippet": "Опыт коммерческой разработки на <highlighttext>JAVA</highlighttext> от двух лет, умение самостоятельно решать сложные задачи. Умение и стремление работать в команде. "
-    },
-    {
-        "name": "Java EE разработчик (стажер)",
-        "vacancy": "https://hh.ru/vacancy/93622715",
+        "name": "Junior Python разработчик",
+        "vacancy": "https://hh.ru/vacancy/93889123",
         "salary": 60000,
-        "snippet": "1) Уверенные знания <highlighttext>JAVA</highlighttext> Core. 2) Базовые знания SQL. Приветствуются: 1) Начальные знания технологий стека Jakarta EE (<highlighttext>Java</highlighttext> EE): * EJB..."
+        "snippet": "Комплекс Программных Средств \"Виста-Мед\". * Опыт коммерческой разработки от 1 года. * Владение <highlighttext>Python</highlighttext> 2/3. * Владение (My)SQL, конкретно: * * Иметь..."
     },
     {
-        "name": "Java-разработчик",
-        "vacancy": "https://hh.ru/vacancy/94676433",
+        "name": "Разработчик Backend [.NET C# || Python]",
+        "vacancy": "https://hh.ru/vacancy/93671976",
+        "salary": 60000,
+        "snippet": "Общая компьютерная грамотность. Понимание ковариантности/ контр вариантности типов. Знание OOP. Основы C#/<highlighttext>Python</highlighttext>. *Большим плюсом будет знание : docker || React ||Angular..."
+    },
+    {
+        "name": "Python-developer",
+        "vacancy": "https://hh.ru/vacancy/94512797",
+        "salary": 175000,
+        "snippet": "Делать лучший продукт в России. Уверенные знания <highlighttext>Python</highlighttext>, ООП. Опыт работы с PostgreSQL: построение оптимальных sql-запросов (без использования ORM..."
+    },
+    {
+        "name": "Backend developer (python)",
+        "vacancy": "https://hh.ru/vacancy/93871523",
         "salary": 0,
-        "snippet": "Высшее образование. Знания SQL, <highlighttext>Java</highlighttext>, Python, Groovy. Вовлеченность в процессы."
+        "snippet": "Опыт разработки на <highlighttext>Python</highlighttext> от 2-х лет. Высокий уровень знаний Django, Django Rest Framework. Взаимодействие с планировщиками задач (Celery..."
     },
     {
-        "name": "Разработчик Java(BSS)",
-        "vacancy": "https://hh.ru/vacancy/94368785",
+        "name": "Python developer",
+        "vacancy": "https://hh.ru/vacancy/94293381",
         "salary": 0,
-        "snippet": "Опыт коммерческой разработки на <highlighttext>Java</highlighttext>8. - Опыт работы со Spring Framework. - Опыт работы с Hibernate. - Знание SQL, навыки работы с..."
+        "snippet": "Опыт коммерческой разработки от 2х лет. Знания <highlighttext>Python</highlighttext>, Django, DRF, FastAPI, SQL. Знание и понимание принципов ООП, SOLID, KISS..."
     },
     {
-        "name": "Разработчик java",
-        "vacancy": "https://hh.ru/vacancy/94750377",
-        "salary": 0,
-        "snippet": "Опыт <highlighttext>Java</highlighttext> от 2 лет (Spring, работа с нереляционными базами данных). Опыт работы с Kafka. Опыт разработки высоконагруженных сервисов. "
+        "name": "Программист Python",
+        "vacancy": "https://hh.ru/vacancy/94188347",
+        "salary": 70000,
+        "snippet": "Уверенное владение git. Уверенное знание <highlighttext>Python</highlighttext>. Уверенное знание Django Rest Framework. Умение развернуть проект на сервере (Docker). Уверенное владение Linux. "
     },
     {
-        "name": "Java разработчик (Naumen)",
-        "vacancy": "https://hh.ru/vacancy/92217794",
-        "salary": 0,
-        "snippet": "Опыт разработки на объектно-ориентированном языке (<highlighttext>Java</highlighttext>, Groovy, Kotlin) от 1,5 лет (предпочтительно <highlighttext>Java</highlighttext>, Groovy), знание основ разработки на..."
+        "name": "Middle Python developer",
+        "vacancy": "https://hh.ru/vacancy/94525580",
+        "salary": 150000,
+        "snippet": "...<highlighttext>python</highlighttext>3. - Уверенное владение хотя бы одним из известных веб-фреймворков - django/flask/starlette-fastapi. - Знакомство с современным инструментами <highlighttext>python</highlighttext>..."
     },
     {
-        "name": "Разработчик Java (middle)",
-        "vacancy": "https://hh.ru/vacancy/93327191",
-        "salary": 190000,
-        "snippet": "Опыт коммерческой разработки на <highlighttext>Java</highlighttext> от 3 лет. <highlighttext>Java</highlighttext>11. Опыт работы с популярными фреймворками: Spring/Spring Boot, JEE/EJB. "
+        "name": "Middle Python Developer",
+        "vacancy": "https://hh.ru/vacancy/93529868",
+        "salary": 100000.0,
+        "snippet": "Опыт коммерческой разработки от 2 лет. Уверенное знание и опыт работы с <highlighttext>Python</highlighttext>/Flask. No-SQL (MongoDB/Redis). "
     },
     {
-        "name": "Middle/Senior java разработчик",
-        "vacancy": "https://hh.ru/vacancy/94492413",
-        "salary": 0,
-        "snippet": "Требуемые знания по технологиям: Опыт разработки промышленных приложений на <highlighttext>Java</highlighttext>/Spring от 3 лет. Хорошая алгоритмическая подготовка. Опыт разработки веб..."
-    },
-    {
-        "name": "Junior Java программист",
-        "vacancy": "https://hh.ru/vacancy/93105981",
-        "salary": 30000,
-        "snippet": "Знание языка программирования <highlighttext>Java</highlighttext>. — Знание принципов работы протокола HTTP. — Знание HTML и понимание принципов работы AJAX. — Понимание как работает HTTP..."
-    },
-    {
-        "name": "Java-разработчик",
-        "vacancy": "https://hh.ru/vacancy/94545202",
-        "salary": 200000,
-        "snippet": "высшее образование. - опыт программирования от 2 лет. - знание <highlighttext>Java</highlighttext>, HTML/CSS/JS, Spring Boot, PostgreSQL обязательно. MongoDB, Redis, Solr, Kafka..."
-    },
-    {
-        "name": "Программист java junior",
-        "vacancy": "https://hh.ru/vacancy/94324580",
-        "salary": 0,
-        "snippet": "...<highlighttext>Java</highlighttext> (<highlighttext>Java</highlighttext> core, <highlighttext>Java</highlighttext> EE). Опыт работы с СУБД MSSQL или PostgreSQL, знание TSQL, написание сложных запросов. Программирование на <highlighttext>Java</highlighttext>. "
-    },
-    {
-        "name": "Java-разработчик",
-        "vacancy": "https://hh.ru/vacancy/94285501",
-        "salary": 200000,
-        "snippet": "Стек технологий: - JDK 8+. - Git / Gitlab. - JUnit. - Знание <highlighttext>Java</highlighttext>, версия 8 и выше. - Опыт использования Spring, Spring Boot. - "
-    },
-    {
-        "name": "Senior Java Developer",
-        "vacancy": "https://hh.ru/vacancy/94616379",
-        "salary": 4500.0,
-        "snippet": "Отлично владеешь <highlighttext>Java</highlighttext> SE 8, <highlighttext>Java</highlighttext> EE 8+. Опыт работы с такими технологиями, как: Spring, Spring Boot 2, Spring..."
-    },
-    {
-        "name": "Java-разработчик (HR-продукты компании)",
-        "vacancy": "https://hh.ru/vacancy/94502753",
-        "salary": 0,
-        "snippet": "Опыт практической разработки на <highlighttext>Java</highlighttext> от 1,5 лет. Знание ООП, различных алгоритмов и структур данных. Понимание микросервисной архитектуры. "
-    },
-    {
-        "name": "Разработчик (Java/Kotlin)",
-        "vacancy": "https://hh.ru/vacancy/92837628",
-        "salary": 0,
-        "snippet": "Знание современных технологических стеков (front, back), практические знания DevOps. Технические знания (высокий уровень): <highlighttext>Java</highlighttext>, Kotlin, Spring, а также SQL, Pgplsql..."
-    },
-    {
-        "name": "Junior Java developer",
-        "vacancy": "https://hh.ru/vacancy/93843318",
-        "salary": 0,
-        "snippet": "Знание основ <highlighttext>Java</highlighttext> 8+, Spring Framework, JPA/Hibernate, Maven/Gradle. Опыт работы с реляционными СУБД (предпочтение PostgreSQL), написание SQL..."
-    },
-    {
-        "name": "Программист Java (финтех)",
-        "vacancy": "https://hh.ru/vacancy/94555061",
-        "salary": 0,
-        "snippet": "Какие знания и навыки для нас важны: Опыт коммерческой разработки от 3 лет на <highlighttext>java</highlighttext> 11 и выше. "
-    },
-    {
-        "name": "Java-разработчик",
-        "vacancy": "https://hh.ru/vacancy/94531246",
-        "salary": 0,
-        "snippet": "Знание и опыт работы с <highlighttext>Java</highlighttext> 8+ а лучше <highlighttext>Java</highlighttext> 11+. Знание принципов и опыт работы с реляционными..."
-    },
-    {
-        "name": "Middle Java developer",
-        "vacancy": "https://hh.ru/vacancy/93845342",
-        "salary": 0,
-        "snippet": "Понимание оптимизации, профилирование приложений. Опыт разработки и отладки многопоточных серверных приложений. Знание принципов построения высоконагруженных систем."
-    },
-    {
-        "name": "Java developer (middle/middle+)",
-        "vacancy": "https://hh.ru/vacancy/94258933",
-        "salary": 0,
-        "snippet": "Опыт работы с <highlighttext>Java</highlighttext> 8-17 от 2х лет. - Опыт работы со Spring (IOC, Data, Cloud, MVC, Security, Testing..."
-    },
-    {
-        "name": "Java-разработчик",
-        "vacancy": "https://hh.ru/vacancy/93227775",
-        "salary": 0,
-        "snippet": "Опыт работы в должности <highlighttext>Java</highlighttext> Middle разработчика и выше, глубокое понимание основных концепций и принципов программирования на <highlighttext>Java</highlighttext>. "
-    },
-    {
-        "name": "Java-разработчик",
-        "vacancy": "https://hh.ru/vacancy/93811745",
-        "salary": 180000,
-        "snippet": "Опыт коммерческой разработки на <highlighttext>Java</highlighttext> от 3 лет. Опыт работы на Spring\\Spring Boot. Хорошее знание и умение применять на..."
-    },
-    {
-        "name": "Java Developer",
-        "vacancy": "https://hh.ru/vacancy/94290585",
-        "salary": 225000.0,
-        "snippet": "Разработка на <highlighttext>Java</highlighttext> от 3х лет. Опыт разработки на <highlighttext>Java</highlighttext> Spring Boot. Понимание принципов REST API. Опыт работы с..."
-    },
-    {
-        "name": "Разработчик программных продуктов (Backend разработчик на Java\\Go)",
-        "vacancy": "https://hh.ru/vacancy/94763688",
-        "salary": 0,
-        "snippet": "Опыт разработки <highlighttext>Java</highlighttext>/Go 2+ года. Знание SQL. Понимание как выстроить интеграцию с внешними системами (REST API, SOAP). "
-    },
-    {
-        "name": "Java-разработчик (удаленно)",
-        "vacancy": "https://hh.ru/vacancy/93925610",
-        "salary": 275000.0,
-        "snippet": "Уровень не ниже middle. Опыт работы с <highlighttext>Java</highlighttext> 8+. Глубокое знание Spring и Spring Boot. Опыт работы с Docker. "
-    },
-    {
-        "name": "Junior Java Developer",
-        "vacancy": "https://hh.ru/vacancy/93214685",
-        "salary": 60000.0,
-        "snippet": "Знание языка программирования <highlighttext>Java</highlighttext>. Знание SQL (MySQL, PostgreSQL). Знание Html, CSS и JavaScript. Знание jQuery и понимание принципов работы AJAX. "
+        "name": "Стажер Back-end разработчика (php, python, c#)",
+        "vacancy": "https://hh.ru/vacancy/89753481",
+        "salary": 22500.0,
+        "snippet": "Знание одного из языков: php, <highlighttext>python</highlighttext>, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
     }
 ]
