@@ -11,7 +11,6 @@ def user_interaction():
                            f'Остальные команды прекратят работу программы.\n')
         if user_input == '1':
             top_n = int(input("Введите количество вакансий для вывода в топ N: "))
-
             print(JSONSaver.read_vacancy(top_n))
         elif user_input == '2':
             JSONSaver.delete_vacancy()
