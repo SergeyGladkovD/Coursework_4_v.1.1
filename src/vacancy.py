@@ -6,24 +6,33 @@ class AbsVacancy(ABC):
     def __init__(self):
         pass
 
+    def valid_salary(self, **kwargs):
+        pass
+
     def compare_vacancy(self):
         pass
 
 
 class Vacancy(AbsVacancy):
 
-    def __init__(self, name, url, salary, snippet):
+    def __init__(self, name: str, url: str, salary: float or int, snippet: dict):
+        super().__init__()
         self.name = name
         self.url = url
         self.snippet = snippet['requirement']
+        self.salary = Vacancy.valid_salary(salary)
+
+    @staticmethod
+    def valid_salary(salary: dict) -> float:
         if salary is None:
-            self.salary = 0
+            salary = 0
         elif salary['from'] is None:
-            self.salary = salary['to']
+            salary = salary['to']
         elif salary['to'] is None:
-            self.salary = salary['from']
+            salary = salary['from']
         else:
-            self.salary = (int(salary['from']) + int(salary['to'])) / 2
+            salary = (int(salary['from']) + int(salary['to'])) / 2
+        return salary
 
     def compare_vacancy(self):
         """ Сравнивает вакансии. """
