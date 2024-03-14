@@ -14,13 +14,13 @@ class AbsJSONSaver(ABC):
         pass
 
     @staticmethod
-    def read_vacancy():
+    def read_vacancy(top_n):
         pass
 
 
 class JSONSaver(AbsJSONSaver):
     @staticmethod
-    def add_vacancy(data):
+    def add_vacancy(data: list):
         """ Сохраняет информацию о вакансиях в файл. """
         with open(os.path.join('data', 'vacancy.json'), 'a', encoding='utf 8') as file:
             json.dump(data, file, indent=4, ensure_ascii=False)
@@ -32,11 +32,16 @@ class JSONSaver(AbsJSONSaver):
             pass
 
     @staticmethod
-    def read_vacancy():
+    def read_vacancy(top_n: int) -> json:
         """ Выводит информацию о вакансиях в файле. """
         with open(os.path.join('data', 'vacancy.json'), 'r', encoding='utf 8') as file:
             data = json.load(file)
             sorted_obj = sorted(data, key=lambda x: x['salary'], reverse=True)
-            # return sorted_obj
-            for i in sorted_obj:
-                print(f'Вакансия: {i["name"]}, {i["vacancy"]}, зарплата = {i["salary"]}, требования: {i["snippet"]}')
+            if top_n <= len(sorted_obj):
+                for i in range(top_n):
+                    print(f'Вакансия: {sorted_obj[i]["name"]}, {sorted_obj[i]["vacancy"]},'
+                          f' зарплата = {sorted_obj[i]["salary"]}, требования: {sorted_obj[i]["snippet"]}')
+            else:
+                for i in range(len(sorted_obj)):
+                    print(f'Вакансия: {sorted_obj[i]["name"]}, {sorted_obj[i]["vacancy"]},'
+                          f' зарплата = {sorted_obj[i]["salary"]}, требования: {sorted_obj[i]["snippet"]}')
